@@ -14,7 +14,7 @@
     {
         "device_id": "cbd1fbfc94a83090",
         "key": "admin1",
-        "expirydate": "",
+        "expirydate": "$",
         "Allowoffline": true
     }
 ]
